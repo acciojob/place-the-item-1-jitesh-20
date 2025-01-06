@@ -1,9 +1,9 @@
-.firstContainer{
+.holder{
 	display:flex;
 	justify-content:space-between
 }
 
-.box{
+.item{
 	width:100px;
 	height:100px;
 }
